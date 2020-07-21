@@ -103,7 +103,7 @@ You will need in your machine **Node.js**,  **Yarn** and **Docker**.
 
 ---
 
-## 📱 Instruções para o mobile
+## 📱 Instructions mobile
  > The project was focused for Android devices.
  
  - Run `yarn` to download all the dependencies needed to execute the project.
