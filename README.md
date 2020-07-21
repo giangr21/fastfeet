@@ -19,7 +19,7 @@
  - [Mobile](#-instructions-mobile)
 
 ---
-FastFeet is an application developed for a fictitious carrier. It allows you to manage deliverers, recipients, orders, report problems with deliveries, among other features. In addition, it sends emails for orders ready to be withdrawn or canceled.
+FastFeet is an application developed for a fictitious shipping company. It allows you to manage deliverers, recipients, orders, report problems with deliveries, among other features. In addition, it sends emails for orders ready to be withdrawn or canceled.
 
 You can check out the <a href="./backend/docs.md" rel="noopener noreferrer">docs</a> to look at the <i>endpoints</i>.
 
